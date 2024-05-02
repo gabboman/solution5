@@ -1,0 +1,25 @@
+{
+  "name": "solution5",
+  "version": "0.0.1",
+  "description": "Solution5 is a link preview cache for the fediverse",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabboman/solution5.git"
+  },
+  "keywords": [
+    "link",
+    "preview",
+    "link",
+    "cache"
+  ],
+  "author": "Gabriel Amador García",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/gabboman/solution5/issues"
+  },
+  "homepage": "https://github.com/gabboman/solution5#readme"
+}
