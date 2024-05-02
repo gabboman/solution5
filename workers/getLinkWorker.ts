@@ -1,5 +1,5 @@
 import { Job } from "bullmq";
-import { linkPreview } from 'link-preview-node'
+const { linkPreview } = require(`link-preview-node`); // no types provided
 import { redisCache } from '../cache'
 import { createHash } from 'crypto';
 import { environment } from "../environment";
